@@ -1,10 +1,10 @@
-<h1 align="center">👋Welcome, I'm Lucas Gonçalves da Luz</h1>
+<h1 align="start">👋Welcome, I'm Lucas Gonçalves da Luz</h1>
 
-<p align="center">
+<p align="start">
   Full Stack Developer focused on Node.js, TypeScript and Next.js
 </p>
 
-<p align="center">
+<p align="start">
   Building scalable web applications with clean architecture and strong fundamentals
 </p>
 
@@ -13,7 +13,6 @@
 ## 📊 Stats
 
 <p align="start">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Gonsalves&show_icons=true&theme=dark&hide_border=true" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Gonsalves&layout=compact&theme=dark&hide_border=true" />
 </p>
 
