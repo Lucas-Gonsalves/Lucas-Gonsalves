@@ -39,7 +39,6 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/SolidJS-2C4F7C?style=flat&logo=solid&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Styled_Components-db7092?style=flat&logo=styled-components&logoColor=white" />
 
   <!-- Linguagens -->
 
