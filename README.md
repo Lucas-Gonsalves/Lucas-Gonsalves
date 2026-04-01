@@ -10,14 +10,6 @@
 
 ---
 
-## 📊 Stats
-
-<p align="start">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Gonsalves&layout=compact&theme=dark&hide_border=true" />
-</p>
-
----
-
 ## 🧠 Tech Stack
 
 <p align="start">
@@ -27,18 +19,19 @@
   <img src="https://img.shields.io/badge/Node.js-43853d?style=flat&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Fastify-000000?style=flat&logo=fastify&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Knex-E16426?style=flat" />
 
   <!-- Banco -->
 
   <img src="https://img.shields.io/badge/PostgreSQL-003B57?style=flat&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" />
 
   <!-- Testes -->
 
   <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white" />
-  <img src="https://img.shields.io/badge/Testing_Library-E33332?style=flat&logo=testing-library&logoColor=white" />
   <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/Testing_Library-E33332?style=flat&logo=testing-library&logoColor=white" />
 
   <!-- Frontend -->
 
@@ -47,7 +40,6 @@
   <img src="https://img.shields.io/badge/SolidJS-2C4F7C?style=flat&logo=solid&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Styled_Components-db7092?style=flat&logo=styled-components&logoColor=white" />
-  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=flat" />
 
   <!-- Linguagens -->
 
@@ -59,7 +51,6 @@
   <!-- Ferramentas -->
 
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitFlow-FF6C37?style=flat" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
 
