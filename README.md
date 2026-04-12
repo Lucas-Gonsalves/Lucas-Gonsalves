@@ -5,6 +5,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=1800&pause=700&color=EF4444&center=true&vCenter=true&lines=$+>+Building+scalable+APIs;$+>+Full+Stack+Programmer;$+>+Clean+Architecture+%26+DDD;$+>+Testable+and+maintainable+code;$+>+From+idea+to+production" />
+</p>
+
+---
+
 ### 🚀 About Me
 
 🔹 Experience in Backend development with Node.js and TypeScript  
