@@ -1,78 +1,61 @@
-<h1 align="start">👋Welcome, I'm Lucas Gonçalves da Luz</h1>
+# 👋 Hello, I'm Lucas Gonçalves da Luz
 
-<p align="start">
-  Full Stack Developer focused on Node.js, TypeScript and Next.js
-</p>
-
-<p align="start">
-  Building scalable web applications with clean architecture and strong fundamentals
-</p>
+💻 Full Stack Developer focused on Node.js, TypeScript & Next.js
 
 ---
 
-## 🧠 Tech Stack
+### 🚀 About Me
 
-<p align="start">
-
-  <!-- Backend -->
-
-  <img src="https://img.shields.io/badge/Node.js-43853d?style=flat&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Fastify-000000?style=flat&logo=fastify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" />
-
-  <!-- Banco -->
-
-  <img src="https://img.shields.io/badge/PostgreSQL-003B57?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" />
-
-  <!-- Testes -->
-
-  <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white" />
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white" />
-  <img src="https://img.shields.io/badge/Testing_Library-E33332?style=flat&logo=testing-library&logoColor=white" />
-
-  <!-- Frontend -->
-
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/SolidJS-2C4F7C?style=flat&logo=solid&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
-
-  <!-- Linguagens -->
-
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-
-  <!-- Ferramentas -->
-
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-
-</p>
+🔹 Experience in Backend development with Node.js and TypeScript  
+🔹 Building scalable APIs using NestJS, Fastify and Prisma  
+🔹 Solid knowledge of SOLID principles, Clean Architecture and Domain-Driven Design (DDD)  
+🔹 Experience applying Test-Driven Development (TDD) and writing maintainable code  
+🔹 Experience in Frontend development with React, Next.js and TailwindCSS  
+🔹 Building modern, responsive and performant interfaces  
 
 ---
 
-## 📫 Contact
+### 🛠️ Tech Stack
 
-<p align="start">
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📌 Featured Projects
+
+- 🧠 clean-DDD – Project applying DDD, Clean Architecture and use-case patterns  
+- 🐶 find-a-friend-api – API with business rules, validation and scalability  
+- ⚡ next-prompt-manager – Fullstack app with Next.js for prompt management  
+- 🧱 solid-api – Backend focused on SOLID principles and maintainability  
+
+---
+
+### 🌍 Let's Connect
+
+<p>
   <a href="https://www.linkedin.com/in/lucas-gon%C3%A7alves-da-luz-498425276/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
   <a href="https://github.com/Lucas-Gonsalves">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-
   <a href="https://www.devbylucas.com.br/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-
   <a href="mailto:lucasluzdevcode@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
+---
+
+✨ _“Designing scalable systems with clean architecture and purposeful code.”_
