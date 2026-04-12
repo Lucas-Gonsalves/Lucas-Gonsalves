@@ -1,6 +1,7 @@
 # 👋 Hello, I'm Lucas Gonçalves da Luz
 
-💻 Full Stack Developer focused on Node.js, TypeScript & Next.js
+
+⚙️ Full Stack Developer focused on Node.js, TypeScript & Next.js
 
 ---
 
@@ -32,10 +33,10 @@
 
 ### 📌 Featured Projects
 
-- 🧠 clean-DDD – Project applying DDD, Clean Architecture and use-case patterns  
-- 🐶 find-a-friend-api – API with business rules, validation and scalability  
-- ⚡ next-prompt-manager – Fullstack app with Next.js for prompt management  
-- 🧱 solid-api – Backend focused on SOLID principles and maintainability  
+- 🧠 [**clean-DDD**](https://github.com/Lucas-Gonsalves/clean-DDD) – Project applying DDD, Clean Architecture and use-case patterns  
+- 🐶 [**find-a-friend-api**](https://github.com/Lucas-Gonsalves/find-a-friend-api) – API with business rules, validation and scalability  
+- ⚡ [**next-prompt-manager**](https://github.com/Lucas-Gonsalves/next-prompt-manager) – Fullstack app with Next.js for prompt management  
+- 🧱 [**solid-api**](https://github.com/Lucas-Gonsalves/solid-api) – Backend focused on SOLID principles and maintainability  
 
 ---
 
