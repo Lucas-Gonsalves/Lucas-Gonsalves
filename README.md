@@ -15,10 +15,9 @@
 
 🔹 Experience in Backend development with Node.js and TypeScript  
 🔹 Building scalable APIs using NestJS, Fastify and Prisma  
-🔹 Solid knowledge of SOLID principles, Clean Architecture and Domain-Driven Design (DDD)  
+🔹 Knowledge of SOLID principles, Clean Architecture and Domain-Driven Design (DDD)  
 🔹 Experience applying Test-Driven Development (TDD) and writing maintainable code  
 🔹 Experience in Frontend development with React, Next.js and TailwindCSS  
-🔹 Building modern, responsive and performant interfaces  
 
 ---
 
