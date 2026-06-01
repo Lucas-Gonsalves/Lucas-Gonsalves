@@ -40,10 +40,11 @@
 
 ### 📌 Featured Projects
 
-- 🧠 [**clean-DDD**](https://github.com/Lucas-Gonsalves/clean-DDD) – Project applying DDD, Clean Architecture and use-case patterns  
-- 🐶 [**find-a-friend-api**](https://github.com/Lucas-Gonsalves/find-a-friend-api) – API with business rules, validation and scalability  
-- ⚡ [**next-prompt-manager**](https://github.com/Lucas-Gonsalves/next-prompt-manager) – Fullstack app with Next.js for prompt management  
-- 🧱 [**solid-api**](https://github.com/Lucas-Gonsalves/solid-api) – Backend focused on SOLID principles and maintainability  
+- 🧠 [**clean-nest**](https://github.com/Lucas-Gonsalves/clean-nest) – Forum API built with Clean Architecture, DDD, JWT, Redis, MinIO/S3 and automated tests
+- ⚡ [**next-prompt-manager**](https://github.com/Lucas-Gonsalves/next-prompt-manager) – Full-Stack application built with Next.js for reusable prompt management
+- 🐶 [**find-a-friend-api**](https://github.com/Lucas-Gonsalves/find-a-friend-api) – API focused on business rules, validation and scalability
+- 🧱 [**clean-DDD**](https://github.com/Lucas-Gonsalves/clean-DDD) – Project applying DDD, Clean Architecture and use case patterns
+- 🔷 [**solid-api**](https://github.com/Lucas-Gonsalves/solid-api) – Backend project focused on SOLID principles and maintainability
 
 ---
 
